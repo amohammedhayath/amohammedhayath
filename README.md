@@ -1,5 +1,4 @@
 # 💫 About Me
-
 * 🔭 **I’m currently working on:** Full-stack development with Python, Django, Java, and DSA.
 * 👯 **I’m looking to collaborate on:** Web apps, automation tools, and open-source projects.
 * 🤝 **I’m looking for help with:** Advanced DSA and Java backend (Spring Boot).
@@ -19,16 +18,12 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amohammedhayath&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amohammedhayath&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amohammedhayath&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=amohammedhayath&icon=0&color=0" alt="Visitor Count" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=amohammedhayath&theme=dark&show_icons=true&hide_border=false" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=amohammedhayath&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amohammedhayath&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=amohammedhayath&color=0077b5&style=flat-square" alt="Profile Views" />
+</div>
